@@ -1,4 +1,4 @@
 # viggggnesh.github.io
 Website of myself
 
-[link](LandingPage)
+<a href= "https://www.viggggnesh.github.io/LandingPage">Link</a>
